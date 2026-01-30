@@ -1,11 +1,12 @@
 # Recipes
 
-## Kasuya's Hybrid Method for Hario Switch
+### Kasuya's Hybrid Method
 
 [Source](https://www.youtube.com/watch?v=gC8K40kZ_6E)
 
-In: 20g
-Out: 300ml
+In: 20g\
+Out: 300ml\
+Brewer: Hario Switch
 
 1. [0:00] Close, pour until 50-60ml
 2. [0:45] Open, pour until 120ml
