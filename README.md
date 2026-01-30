@@ -2,6 +2,8 @@
 
 ## Kasuya's Hybrid Method for Hario Switch
 
+[Source](https://www.youtube.com/watch?v=gC8K40kZ_6E)
+
 1. Close
 2. [0:00] Pour until 50-60ml
 3. [0:45] Open, pour until 120ml
