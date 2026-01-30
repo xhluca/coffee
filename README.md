@@ -1,6 +1,6 @@
 # Recipes
 
-### Kasuya's Hybrid Method
+## Kasuya's Hybrid Method
 
 [Source](https://www.youtube.com/watch?v=gC8K40kZ_6E)
 
