@@ -4,6 +4,9 @@
 
 [Source](https://www.youtube.com/watch?v=gC8K40kZ_6E)
 
+In: 20g
+Out: 300ml
+
 1. [0:00] Close, pour until 50-60ml
 2. [0:45] Open, pour until 120ml
 3. [1:30] Pour until 200ml
